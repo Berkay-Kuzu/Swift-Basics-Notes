@@ -1,2 +1,2 @@
 # Swift-Notes
-You can find Swift programming basic, intermediate, and advanced topics in this repository.
+You can find Swift programming topics in this repository.
